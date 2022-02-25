@@ -1,1 +1,1 @@
-# PHYS434
+# PHYS434 - LHC data analysis
